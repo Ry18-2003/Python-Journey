@@ -1,8 +1,8 @@
 # Operadores Aritimétricos
 
-***+ Adição***
+___+ Adição___
 
-***- Subtração***
+___- Subtração___
 
 ___* Multiplicação___
 

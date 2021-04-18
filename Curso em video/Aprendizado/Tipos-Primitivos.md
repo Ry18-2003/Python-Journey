@@ -1,4 +1,5 @@
-# Tipos primiticos
+# Tipos Primitivos
+
 STR : Valores caracteré ou string **EX: "Olá", "8", '9.7', 'False', "", ''.**
 
 INT : Números inteiros **EX: 4, -4, 959598, 0.**
